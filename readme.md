@@ -1,7 +1,7 @@
 ## Setup Instructions
 
 1. Clone the repository from GitHub:
-   git clone https://github.com/your_username/neuromodulation.git
+   git clone https://github.com/franzistom/Neuromodulation.git
    cd neuromodulation
 
 2. Create the database and tables:
